@@ -1,4 +1,5 @@
 
+[![Build Status](https://app.travis-ci.com/CruzdelCid/discord-bot.svg?branch=master)](https://app.travis-ci.com/CruzdelCid/discord-bot)
 
 ```shell
 docker image build -t ubuntu:dbot .
